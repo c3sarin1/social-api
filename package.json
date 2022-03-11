@@ -1,7 +1,25 @@
 {
   "dependencies": {
-    "express": "^4.17.3",
+    "express": "^4.17.2",
     "moment": "^2.29.1",
-    "mongoose": "^6.2.5"
-  }
+    "mongoose": "^6.2.1"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "name": "social-api",
+  "description": "",
+  "version": "1.0.0",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/c3sarin1/social-api"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/c3sarin1/social-api/issues"
+  },
+  "homepage": "https://github.com/c3sarin1/social-api"
 }
